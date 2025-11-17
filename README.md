@@ -4,7 +4,13 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;NLP+%26+Agentic+AI+Specialist;Building+Intelligent+Automation+Systems;Transforming+Data+into+Insights)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=nihal-5&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/nihal-5?style=for-the-badge&color=00D9FF&logo=github&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/nihal-5?style=for-the-badge&color=00D9FF&logo=github&label=TOTAL+STARS)
+
 </div>
+
+---
 
 ## 🚀 About Me
 
@@ -15,6 +21,16 @@ I'm a passionate **AI/ML Engineer** specializing in **Natural Language Processin
 - 🧠 **Expertise**: LLMs, RAG Systems, Multi-Agent Architectures, OCR Pipelines
 - 🌱 **Learning**: Advanced Agentic AI, Prompt Engineering, AI Orchestration
 - 💡 **Philosophy**: Creating AI that augments human capabilities, not replaces them
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=nihal-5&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -43,6 +59,7 @@ I'm a passionate **AI/ML Engineer** specializing in **Natural Language Processin
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Data & MLOps
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -56,51 +73,84 @@ I'm a passionate **AI/ML Engineer** specializing in **Natural Language Processin
 
 ### 🤖 [My-Email-MCP](https://github.com/nihal-5/My-Email-MCP) ⭐ NEW
 **AI-Powered Email Automation with Model Context Protocol**
-- 🎯 Intelligent job posting detection using NLP (95% accuracy)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Stars](https://img.shields.io/github/stars/nihal-5/My-Email-MCP?style=flat-square)
+
+- 🎯 Intelligent job posting detection using NLP (**95% accuracy**)
 - 🧠 AI-powered resume generation with LLM customization
 - 📧 Real-time email classification and automation
 - 🔄 Multi-agent orchestration with approval workflows
-- **Tech**: TypeScript, OpenAI, Ollama, Node.js, MCP
-
-### 📝 [Text-Summarizer-Project](https://github.com/nihal-5/Text-Summarizer-Project)
-**End-to-End NLP Pipeline for Document Summarization**
-- 🎯 Transformer-based abstractive summarization
-- 📊 Fine-tuned models on domain-specific datasets
-- 🚀 Production-ready API deployment
-- **Tech**: Python, Transformers, FastAPI, Docker
-
-### 🔍 [ecom-ocr-hero](https://github.com/nihal-5/ecom-ocr-hero)
-**OCR + YOLO Pipeline for E-commerce Product Analysis**
-- 📸 Nutrition facts extraction with 98% accuracy
-- 🏷️ Barcode detection and decoding
-- 🖼️ Product hero image identification
-- 🎯 YOLO-based object detection
-- **Tech**: Python, YOLO, Tesseract OCR, OpenCV, Computer Vision
-
-### 🕵️ [FraudNLP](https://github.com/nihal-5/FraudNLP)
-**NLP for Financial Fraud Detection**
-- 💳 Transaction text analysis for fraud patterns
-- 🔍 Advanced feature engineering with NLP
-- 📈 High-precision classification models
-- **Tech**: Python, NLP, Scikit-learn, Feature Engineering
-
-### 🎓 [Agentic AI Research](https://github.com/nihal-5/agents)
-**Complete Agentic AI System Implementation**
-- 🤖 Multi-agent coordination and planning
-- 🧠 Tool-using autonomous agents
-- 🔄 Feedback loops and self-improvement
-- **Tech**: Python, LangChain, ReAct Framework, Agent Orchestration
 
 ---
 
-## 📊 GitHub Stats
+### 📝 [Text-Summarizer-Project](https://github.com/nihal-5/Text-Summarizer-Project)
+**End-to-End NLP Pipeline for Document Summarization**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/��_Transformers-FFD21E?style=flat-square)
+![Stars](https://img.shields.io/github/stars/nihal-5/Text-Summarizer-Project?style=flat-square)
+
+- 🎯 Transformer-based abstractive summarization
+- 📊 **ROUGE-1: 45.2+** on CNN/DailyMail dataset
+- 🚀 Production-ready API deployment
+- ⚡ Fine-tuned BART, T5, and Pegasus models
+
+---
+
+### 🔍 [ecom-ocr-hero](https://github.com/nihal-5/ecom-ocr-hero)
+**OCR + YOLO Pipeline for E-commerce Product Analysis**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)
+![Stars](https://img.shields.io/github/stars/nihal-5/ecom-ocr-hero?style=flat-square)
+
+- 📸 Nutrition facts extraction with **98% accuracy**
+- 🏷️ Barcode detection and decoding
+- 🖼️ Product hero image identification
+- 🎯 YOLOv8-based object detection
+
+---
+
+### 🕵️ [FraudNLP](https://github.com/nihal-5/FraudNLP)
+**NLP for Financial Fraud Detection**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+- 💳 Transaction text analysis for fraud patterns
+- 🔍 Advanced feature engineering with NLP
+- 📈 High-precision classification models
+
+---
+
+### 🎓 [Agentic AI Research](https://github.com/nihal-5/agents)
+**Complete Agentic AI System Implementation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+- 🤖 Multi-agent coordination and planning
+- 🧠 Tool-using autonomous agents
+- 🔄 Feedback loops and self-improvement
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nihal-5&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihal-5&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" />
+
+</div>
 
 <div align="center">
   
-![Nihal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihal-5&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihal-5&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nihal-5&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
 </div>
@@ -118,10 +168,10 @@ class AIEngineer:
         
     def technical_skills(self):
         return {
-            "machine_learning": ["Supervised", "Unsupervised", "Deep Learning", "Reinforcement Learning"],
-            "nlp": ["LLMs", "Text Classification", "NER", "Sentiment Analysis", "Summarization"],
+            "machine_learning": ["Supervised", "Unsupervised", "Deep Learning", "RL"],
+            "nlp": ["LLMs", "Text Classification", "NER", "Summarization"],
             "agentic_ai": ["Multi-Agent Systems", "Tool Use", "Planning", "Reasoning"],
-            "computer_vision": ["Object Detection", "OCR", "Image Classification", "Segmentation"],
+            "computer_vision": ["Object Detection", "OCR", "Classification", "Segmentation"],
             "mlops": ["Model Deployment", "CI/CD", "Monitoring", "A/B Testing"]
         }
     
@@ -136,28 +186,44 @@ class AIEngineer:
 
 ## 🏆 Achievements & Highlights
 
-- 🎯 **95%+ accuracy** in email classification with custom NLP models
-- 🚀 Built **end-to-end AI pipelines** from research to production
-- 🤖 Implemented **multi-agent systems** with autonomous decision-making
-- 📊 Developed **OCR solutions** processing thousands of images daily
-- 💡 Created **intelligent automation** systems saving hours of manual work
+<div align="center">
+
+| 🎯 Achievement | 📊 Metric |
+|:---------------|:----------|
+| **Email Classification** | 95%+ accuracy with custom NLP |
+| **OCR Pipeline** | 98% accuracy on product images |
+| **Summarization** | ROUGE-1: 45.2 on benchmark datasets |
+| **Production Systems** | End-to-end AI pipelines deployed |
+| **Multi-Agent AI** | Autonomous decision-making systems |
+
+</div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 [![Nihal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nihal-5&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/nihal-5)
 
 ---
 
-## 🌐 Let's Connect!
+## 💻 Most Used Languages
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=nihal5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nihal-veeramalla)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihal-5)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nihal-5.github.io)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nihal5)
 
 </div>
 
@@ -167,19 +233,26 @@ class AIEngineer:
   
 ### 💭 *"Building AI systems that make a difference, one commit at a time."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=nihal-5&color=00D9FF&style=for-the-badge)
+### 📫 Open to collaboration on AI/ML projects!
 
 </div>
 
 ---
 
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building Production-Ready AI Agents with MCP
-- 🧠 Fine-tuning LLMs for Domain-Specific Tasks
-- 📊 Best Practices for MLOps in 2025
-- 🔍 Computer Vision + NLP: The Future of AI
-<!-- BLOG-POST-LIST:END -->
+## 📚 Latest Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+  
+### ⭐ From [nihal-5](https://github.com/nihal-5)
+
+![snake gif](https://github.com/nihal-5/nihal-5/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
