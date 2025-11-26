@@ -75,6 +75,40 @@ I'm a passionate **AI/ML Engineer** specializing in **Natural Language Processin
 - 🔄 Multi-agent orchestration with approval workflows
 
 ---
+🧾 Resource Procurement Automation
+Deterministic planner + FastAPI UI for supplier POs and branch allocations
+
+Python
+FastAPI
+FPDF
+Stars
+
+📦 Supplier-ready purchase orders with allocations to DCs/branches
+🗂️ Editable PO lines in the UI + PDF export with allocation summary
+🔄 Auto-run with bundled data; accepts JSON/CSV uploads
+✉️ My-Email-MCP
+Agentic email/WhatsApp automation with MCP + LLMs
+
+Python
+FastAPI
+OpenAI
+
+📬 Intent classification and auto-replies for inbound emails/WhatsApp
+🧑‍💼 Resume drafting and job detection workflows
+🛠️ MCP-based tool use with approval flows
+🖼️ automatic-product-creator-pos-erp
+YOLO + EasyOCR pipeline for product catalog JSONs and hero images
+
+Python
+OpenCV
+YOLO
+Stars
+
+🧾 OCR + barcode reads → structured catalog data
+🖼️ High-quality hero images and cutouts for e-commerce
+🚀 Production-ready JSON/HTML exports
+
+---
 
 ### 📝 [Text-Summarizer-Project](https://github.com/nihal-5/Text-Summarizer-Project)
 **End-to-End NLP Pipeline for Document Summarization**
