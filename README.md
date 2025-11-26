@@ -75,15 +75,15 @@ I'm a passionate **AI/ML Engineer** specializing in **Natural Language Processin
 - 🔄 Multi-agent orchestration with approval workflows
 
 ---
-🧾 Resource Procurement Automation
-Deterministic planner + FastAPI UI for supplier POs and branch allocations
+**🧾 Resource Procurement Automation
+**Deterministic planner + FastAPI UI for supplier POs and branch allocations
 
 Python
 FastAPI
 FPDF
 Stars
 
-📦 Supplier-ready purchase orders with allocations to DCs/branches
+📦 **Supplier-ready purchase orders with allocations to DCs/branches**
 🗂️ Editable PO lines in the UI + PDF export with allocation summary
 🔄 Auto-run with bundled data; accepts JSON/CSV uploads
 ✉️ My-Email-MCP
@@ -93,7 +93,7 @@ Python
 FastAPI
 OpenAI
 
-📬 Intent classification and auto-replies for inbound emails/WhatsApp
+📬 **Intent classification and auto-replies for inbound emails/WhatsApp**
 🧑‍💼 Resume drafting and job detection workflows
 🛠️ MCP-based tool use with approval flows
 🖼️ automatic-product-creator-pos-erp
@@ -180,32 +180,6 @@ Stars
 </div>
 
 ---
-
-## 🎯 Core Competencies
-
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Nihal Veeramalla"
-        self.role = "AI/ML Engineer"
-        self.specialization = ["NLP", "Agentic AI", "Computer Vision", "MLOps"]
-        
-    def technical_skills(self):
-        return {
-            "machine_learning": ["Supervised", "Unsupervised", "Deep Learning", "RL"],
-            "nlp": ["LLMs", "Text Classification", "NER", "Summarization"],
-            "agentic_ai": ["Multi-Agent Systems", "Tool Use", "Planning", "Reasoning"],
-            "computer_vision": ["Object Detection", "OCR", "Classification", "Segmentation"],
-            "mlops": ["Model Deployment", "CI/CD", "Monitoring", "A/B Testing"]
-        }
-    
-    def frameworks_used(self):
-        return ["PyTorch", "TensorFlow", "LangChain", "Transformers", "OpenCV", "FastAPI"]
-    
-    def current_focus(self):
-        return "Building production-grade AI systems with MCP and Agentic architectures"
-```
-
 ---
 
 ## 🏆 Achievements & Highlights
@@ -227,16 +201,6 @@ class AIEngineer:
 ## 📈 Contribution Graph
 
 [![Nihal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nihal-5&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/nihal-5)
-
----
-
-## 💻 Most Used Languages
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=nihal5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
-
-</div>
 
 ---
 
