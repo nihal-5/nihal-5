@@ -75,38 +75,46 @@ I'm a passionate **AI/ML Engineer** specializing in **Natural Language Processin
 - 🔄 Multi-agent orchestration with approval workflows
 
 ---
-**🧾 Resource Procurement Automation
-**Deterministic planner + FastAPI UI for supplier POs and branch allocations
 
-Python
-FastAPI
-FPDF
-Stars
+### 🧾 [Resource Procurement Automation](https://github.com/nihal-5/resource-procurement-automation)
+**Deterministic planner + FastAPI UI for supplier POs and branch allocations**
 
-📦 **Supplier-ready purchase orders with allocations to DCs/branches**
-🗂️ Editable PO lines in the UI + PDF export with allocation summary
-🔄 Auto-run with bundled data; accepts JSON/CSV uploads
-✉️ My-Email-MCP
-Agentic email/WhatsApp automation with MCP + LLMs
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![FPDF](https://img.shields.io/badge/FPDF-CC0000?style=flat-square)
+![Stars](https://img.shields.io/github/stars/nihal-5/resource-procurement-automation?style=flat-square)
 
-Python
-FastAPI
-OpenAI
+- 📦 Supplier-ready purchase orders with allocations to DCs/branches
+- 🗂️ Editable PO lines in the UI + PDF export with allocation summary
+- 🔄 Auto-run with bundled data; accepts JSON/CSV uploads
 
-📬 **Intent classification and auto-replies for inbound emails/WhatsApp**
-🧑‍💼 Resume drafting and job detection workflows
-🛠️ MCP-based tool use with approval flows
-🖼️ automatic-product-creator-pos-erp
-YOLO + EasyOCR pipeline for product catalog JSONs and hero images
+---
 
-Python
-OpenCV
-YOLO
-Stars
+### ✉️ [Email-WhatsApp Automation](https://github.com/nihal-5/My-Email-MCP)
+**Agentic email/WhatsApp automation with MCP + LLMs**
 
-🧾 OCR + barcode reads → structured catalog data
-🖼️ High-quality hero images and cutouts for e-commerce
-🚀 Production-ready JSON/HTML exports
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Stars](https://img.shields.io/github/stars/nihal-5/My-Email-MCP?style=flat-square)
+
+- 📬 Intent classification and auto-replies for inbound emails/WhatsApp
+- 🧑‍💼 Resume drafting and job detection workflows
+- 🛠️ MCP-based tool use with approval flows
+
+---
+
+### 🖼️ [Automatic Product Creator POS-ERP](https://github.com/nihal-5/automatic-product-creator-pos-erp)
+**YOLO + EasyOCR pipeline for product catalog JSONs and hero images**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)
+![Stars](https://img.shields.io/github/stars/nihal-5/automatic-product-creator-pos-erp?style=flat-square)
+
+- 🧾 OCR + barcode reads → structured catalog data
+- 🖼️ High-quality hero images and cutouts for e-commerce
+- 🚀 Production-ready JSON/HTML exports
 
 ---
 
@@ -180,7 +188,6 @@ Stars
 </div>
 
 ---
----
 
 ## 🏆 Achievements & Highlights
 
@@ -210,7 +217,7 @@ Stars
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nihal-veeramalla)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihal-5)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nihalveeramalla@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nihal5)
 
 </div>
@@ -230,6 +237,7 @@ Stars
 ## 📚 Latest Activity
 
 <!--START_SECTION:activity-->
+<!-- Coming Soon - GitHub activity feed will be automatically populated here via GitHub Actions workflow -->
 <!--END_SECTION:activity-->
 
 ---
@@ -238,7 +246,8 @@ Stars
   
 ### ⭐ From [nihal-5](https://github.com/nihal-5)
 
-![snake gif](https://github.com/nihal-5/nihal-5/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake contribution GIF - requires GitHub Actions workflow to generate -->
+<!-- ![snake gif](https://github.com/nihal-5/nihal-5/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
 
