@@ -24,16 +24,6 @@ I'm a passionate **AI/ML Engineer** specializing in **Natural Language Processin
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=nihal-5&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### AI/ML Frameworks
