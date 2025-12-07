@@ -1,70 +1,60 @@
 # Nihal Veeramalla
 
-AI/ML Engineer specializing in Natural Language Processing, Computer Vision, and Agentic AI systems. Based in Raleigh/Cary, NC.
+AI/ML Engineer building intelligent agent systems and production AI applications. Based in Raleigh/Cary, NC.
 
-## About
+## What I'm Working On
 
-I build production-ready AI systems that solve real-world business problems. My work focuses on:
+Currently exploring multi-agent collaboration systems and deploying AI applications to production. Recent focus on AutoGen, LangGraph, and CrewAI frameworks for building agents that actually work together.
 
-- **Natural Language Processing**: Text classification, information extraction, and LLM applications
-- **Computer Vision**: Object detection, OCR pipelines, and image analysis
-- **Agentic AI**: Multi-agent systems and intelligent automation
-- **MLOps**: End-to-end deployment and monitoring of AI models
+## Projects
 
-## Featured Projects
+### Multi-Agent Systems
 
-### AI-Powered Email Automation
-Intelligent job posting detection and resume generation system using Model Context Protocol (MCP)
-- TypeScript/Node.js backend with OpenAI integration
-- 95%+ accuracy in email classification
-- Multi-agent orchestration with approval workflows
+**[AutoGen Multi-Agent Collaboration](https://github.com/nihal-5/autogen-collaborative-ai-agents)**  
+4 specialized agents working as a team with real-time dashboard. Built with Microsoft AutoGen - agents actually debug each other's code which is pretty cool to watch.
 
-[View Project →](https://github.com/nihal-5/My-Email-MCP)
+**[AI Trading Simulation](https://github.com/nihal-5/ai-trading-simulation)**  
+Multi-agent trading where 4 traders compete using different strategies. Testing GPT-4, Gemini, and Deepseek against each other on real market data. Fun to see how different models approach the same trades.
 
-### Resource Procurement Automation
-Deterministic planning engine for supplier purchase orders and inventory allocation
-- Python/FastAPI with PDF generation
-- Editable UI with real-time updates
-- JSON/CSV data import for customization
+**[LangGraph Task Assistant](https://github.com/nihal-5/autonomous-task-assistant)**  
+Autonomous agent that handles web browsing and code execution. Built with LangGraph's state machine approach. Uses self-evaluation to improve results.
 
-[View Project →](https://github.com/nihal-5/Resource-procurement-automation-from-supplier)
+**[CrewAI Research Assistant](https://github.com/nihal-5/ai-research-assistant)**  
+Multi-agent research system with specialized researcher, fact-checker, and writer roles. CrewAI's hierarchical structure makes agent collaboration cleaner.
 
-### Automatic Product Creator
-YOLO + OCR pipeline for e-commerce catalog generation
-- Product detection and text extraction
-- Barcode reading and nutrition fact parsing
-- High-quality hero image generation
+### Computer Vision
 
-[View Project →](https://github.com/nihal-5/automatic-product-creator-pos-erp)
+**[Real-time Video Analytics](https://github.com/nihal-5/video-query)**  
+Ask questions about live video in natural language. Works with YouTube streams, webcams, and video files. Real-time object detection and scene understanding.
 
-### Video Query System
-Real-time video analytics with natural language queries
-- Support for YouTube streams, uploads, and webcam
-- Gemini AI integration for video understanding
-- COCO-SSD object detection and tracking
+**[Product OCR Pipeline](https://github.com/nihal-5/automatic-product-creator-pos-erp)**  
+YOLO + OCR for extracting nutrition facts, barcodes, and product images from packaging. Automates tedious e-commerce data entry.
 
-[View Project →](https://github.com/nihal-5/video-query)
+### Automation
 
-## Technical Skills
+**[Email & WhatsApp MCP](https://github.com/nihal-5/My-Email-MCP)**  
+Automated job application system using Model Context Protocol. Detects job postings, generates tailored resumes, sends WhatsApp notifications.
 
+## Tech Stack
+
+**Frameworks**: AutoGen, LangGraph, CrewAI, LangChain  
 **Languages**: Python, TypeScript, JavaScript  
-**ML/AI**: PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers  
-**NLP**: OpenAI API, LangChain, spaCy, NLTK  
-**Computer Vision**: OpenCV, YOLO, EasyOCR, Tesseract  
-**Development**: Node.js, FastAPI, Docker, Git  
-**Data**: Pandas, NumPy, Jupyter, MLflow
+**ML/AI**: PyTorch, TensorFlow, Scikit-learn, Transformers  
+**APIs**: OpenAI, Gemini, Deepseek, Brave Search  
+**CV**: OpenCV, YOLO, COCO-SSD, EasyOCR  
+**Backend**: FastAPI, Node.js, Express  
+**Tools**: Docker, Git, Jupyter, NumPy, Pandas
 
-## Key Achievements
+## Current Focus
 
-- **Email Classification**: 95%+ accuracy with custom NLP models
-- **OCR Pipeline**: 98% accuracy on product packaging
-- **Document Summarization**: ROUGE-1 score of 45.2 on CNN/DailyMail benchmark
-- **Production Systems**: Multiple end-to-end AI pipelines deployed
+Working on deploying the AutoGen system to Oracle Cloud and building a unified dashboard that connects all projects. Next up: adding conversation persistence and human-in-the-loop approval workflows.
+
+Also experimenting with different agent frameworks to see what works best for different use cases. AutoGen is great for code tasks, CrewAI handles research well, LangGraph gives you more control over flow.
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/nihal-veeramalla) • [GitHub](https://github.com/nihal-5) • [Email](mailto:nihalveeramalla@gmail.com)
+[LinkedIn](https://linkedin.com/in/nihal-veeramalla) • [GitHub](https://github.com/nihal-5) • nihalveeramalla@gmail.com
 
 ---
 
-*Building AI systems that make a difference.*
+*Building agents that actually work in production.*
