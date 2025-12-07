@@ -2,9 +2,9 @@
 
 AI/ML Engineer building intelligent agent systems and production AI applications. Based in Raleigh/Cary, NC.
 
-## What I'm Working On
+## Recent Work
 
-Currently exploring multi-agent collaboration systems and deploying AI applications to production. Recent focus on AutoGen, LangGraph, and CrewAI frameworks for building agents that actually work together.
+Building multi-agent collaboration systems with AutoGen, LangGraph, and CrewAI. Focus on production deployments and real-world applications.
 
 ## Projects
 
@@ -47,9 +47,9 @@ Automated job application system using Model Context Protocol. Detects job posti
 
 ## Current Focus
 
-Working on deploying the AutoGen system to Oracle Cloud and building a unified dashboard that connects all projects. Next up: adding conversation persistence and human-in-the-loop approval workflows.
+Deploying the AutoGen system to Oracle Cloud and building a unified dashboard connecting all projects. Adding conversation persistence and human-in-the-loop approval workflows.
 
-Also experimenting with different agent frameworks to see what works best for different use cases. AutoGen is great for code tasks, CrewAI handles research well, LangGraph gives you more control over flow.
+Working with AutoGen for code tasks, CrewAI for research workflows, and LangGraph for complex state management.
 
 ## Contact
 
