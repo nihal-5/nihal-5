@@ -1,6 +1,6 @@
 # Nihal Veeramalla
 
-AI/ML Engineer building intelligent agent systems and production AI applications. Based in Raleigh/Cary, NC.
+AI/ML Engineer building intelligent agent systems and production AI applications.
 
 ## Recent Work
 
@@ -47,9 +47,7 @@ Automated job application system using Model Context Protocol. Detects job posti
 
 ## Current Focus
 
-Deploying the AutoGen system to Oracle Cloud and building a unified dashboard connecting all projects. Adding conversation persistence and human-in-the-loop approval workflows.
-
-Working with AutoGen for code tasks, CrewAI for research workflows, and LangGraph for complex state management.
+Multi-agent collaboration systems with tool calling and Model Context Protocol (MCP) integration. Researching agentic workflows, function calling patterns, and agent-to-agent communication architectures.
 
 ## Contact
 
